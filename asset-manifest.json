@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.e1d4285d.chunk.js": "/react-complex-form/static/js/0.e1d4285d.chunk.js",
+    "static/js/0.e1d4285d.chunk.js.map": "/react-complex-form/static/js/0.e1d4285d.chunk.js.map",
+    "main.css": "/react-complex-form/static/css/main.952da125.chunk.css",
+    "main.js": "/react-complex-form/static/js/main.063b3a7f.chunk.js",
+    "main.js.map": "/react-complex-form/static/js/main.063b3a7f.chunk.js.map",
+    "runtime-main.js": "/react-complex-form/static/js/runtime-main.abfc872c.js",
+    "runtime-main.js.map": "/react-complex-form/static/js/runtime-main.abfc872c.js.map",
+    "static/js/3.0b5fe0a2.chunk.js": "/react-complex-form/static/js/3.0b5fe0a2.chunk.js",
+    "static/js/3.0b5fe0a2.chunk.js.map": "/react-complex-form/static/js/3.0b5fe0a2.chunk.js.map",
+    "static/css/4.4c38884d.chunk.css": "/react-complex-form/static/css/4.4c38884d.chunk.css",
+    "static/js/4.d53d6b63.chunk.js": "/react-complex-form/static/js/4.d53d6b63.chunk.js",
+    "static/js/4.d53d6b63.chunk.js.map": "/react-complex-form/static/js/4.d53d6b63.chunk.js.map",
+    "static/css/5.04ed4a2e.chunk.css": "/react-complex-form/static/css/5.04ed4a2e.chunk.css",
+    "static/js/5.b29a194e.chunk.js": "/react-complex-form/static/js/5.b29a194e.chunk.js",
+    "static/js/5.b29a194e.chunk.js.map": "/react-complex-form/static/js/5.b29a194e.chunk.js.map",
+    "static/css/6.cca6d190.chunk.css": "/react-complex-form/static/css/6.cca6d190.chunk.css",
+    "static/js/6.6b673018.chunk.js": "/react-complex-form/static/js/6.6b673018.chunk.js",
+    "static/js/6.6b673018.chunk.js.map": "/react-complex-form/static/js/6.6b673018.chunk.js.map",
+    "static/js/7.a5e1ae18.chunk.js": "/react-complex-form/static/js/7.a5e1ae18.chunk.js",
+    "static/js/7.a5e1ae18.chunk.js.map": "/react-complex-form/static/js/7.a5e1ae18.chunk.js.map",
+    "index.html": "/react-complex-form/index.html",
+    "static/css/4.4c38884d.chunk.css.map": "/react-complex-form/static/css/4.4c38884d.chunk.css.map",
+    "static/css/5.04ed4a2e.chunk.css.map": "/react-complex-form/static/css/5.04ed4a2e.chunk.css.map",
+    "static/css/6.cca6d190.chunk.css.map": "/react-complex-form/static/css/6.cca6d190.chunk.css.map",
+    "static/css/main.952da125.chunk.css.map": "/react-complex-form/static/css/main.952da125.chunk.css.map",
+    "static/js/3.0b5fe0a2.chunk.js.LICENSE.txt": "/react-complex-form/static/js/3.0b5fe0a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abfc872c.js",
+    "static/js/3.0b5fe0a2.chunk.js",
+    "static/css/main.952da125.chunk.css",
+    "static/js/main.063b3a7f.chunk.js"
+  ]
+}
